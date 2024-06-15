@@ -18,7 +18,7 @@
 **О структуре проекта:**
 * [data](https://drive.google.com/drive/folders/109kzQNUfAX4hyOf_psTCxCaWnxzmnt4t?usp=sharing) - данные представлены на Google Drive
 * [Graphics](./Graphics) - папка с диаграммами Plotly в формате HTML, применяемые в проекте
-* [Project-1. Analysing job vacancies on hh_ru.ipynb](./Project-1. Analysing job vacancies on hh_ru.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач преобразования, исследованяи и очистки данных
+* [Analysing job vacancies on hh_ru.ipynb](./Analysing job vacancies on hh_ru.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач преобразования, исследованяи и очистки данных
 
 
 ## Описание данных
